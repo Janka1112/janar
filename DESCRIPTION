@@ -1,0 +1,15 @@
+Package: janar
+Type: Package
+Title: Lecturers' quotes
+Version: 0.1.0
+Author: Jana
+Maintainer: Jana Tomastikova <j.tomastikova@sms.ed.ac.uk>
+Description: This package contains exclusive sounds from lecture recordings from different professors. Currently, there are short quotes from Professor Wendy Johnson only, but more wiil be added in due course. If you have any funny one-liners worth puttung into this package, please contact me immediately. This is how I waste my time.
+License: What license is it under?
+Encoding: UTF-8
+Depends: audio
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2023-06-13 20:50:07 UTC; janatomastikova
+Built: R 4.3.0; ; 2023-06-13 20:50:09 UTC; unix
