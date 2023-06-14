@@ -32,7 +32,7 @@ Details
 
 ### Usage
  
-`wendy(x = 1)`
+`wendy(1)`
 
 ### Arguments
  
